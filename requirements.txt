@@ -1,0 +1,13 @@
+numpy
+sounddevice
+openwakeword
+scipy
+SpeechRecognition
+pyttsx3
+psutil
+Pillow
+ollama
+duckduckgo_search
+comtypes
+pycaw
+pystray
